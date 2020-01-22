@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 4.8.1, 2019-06-28T13:27:43. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{d8045b75-fd32-442a-be8e-b84c1412d317}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.PluginSettings</variable>
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey">
+    <value type="QString">-fno-delayed-template-parsing</value>
+   </valuelist>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.0 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.0 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5120.win64_mingw73_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:/Profiles/alvaro/Desktop/Universidad/Asignaturas primero_2018_2019/Segundo Cuatrimestre/Estructura de Datos/Practicas/Practica Final/build-solucion-Desktop_Qt_5_12_0_MinGW_64_bit-Debug</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">qmake</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary">true</value>
+      <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">false</value>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.BuildTargets"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">false</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments"></value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.OverrideMakeflags">false</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Build</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.1">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.BuildTargets"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">true</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments">clean</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.OverrideMakeflags">false</value>
+     </valuemap>
+     <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">1</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Clean</value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.BuildSteps.Clean</value>
+    </valuemap>
+    <value type="int" key="ProjectExplorer.BuildConfiguration.BuildStepListCount">2</value>
+    <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
+    <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges"/>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Debug</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4BuildConfiguration</value>
+    <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
+    <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
+   </valuemap>
+   <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">D:/Profiles/alvaro/Desktop/Universidad/Asignaturas primero_2018_2019/Segundo Cuatrimestre/Estructura de Datos/Practicas/Practica Final/build-solucion-Desktop_Qt_5_12_0_MinGW_64_bit-Release</value>
+    <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">qmake</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">QtProjectManager.QMakeBuildStep</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary">false</value>
+      <value type="QString" key="QtProjectManager.QMakeBuildStep.QMakeArguments"></value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.QMakeForced">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.SeparateDebugInfo">false</value>
+      <value type="bool" key="QtProjectManager.QMakeBuildStep.UseQtQuickCompiler">true</value>
+     </valuemap>
+     <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.1">
+      <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Make</value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+      <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.MakeStep</value>
+      <valuelist type="QVariantList" key="Qt4ProjectManager.MakeStep.BuildTargets"/>
+      <value type="bool" key="Qt4ProjectManager.MakeStep.Clean">false</value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeArguments"></value>
+      <value type="QString" key="Qt4ProjectManager.MakeStep.MakeCommand"></value>
+      <value type="bool" key="Pt4Pvojec4Manager.MakeStep.OverrideMakefl·gs">false</value>
+   ( </valummap>J     <value t9te="int¢!key="ProjectExplorer.BuindStepList.StepsCount2>2</ˆalue>
+     <value type="QString" key="PrOjegtExploreR.Prgj%ctConfigurad)on.DefaultDisplayName">Build</value<
+    †4value type-"QString" key="PrMjectEx`lorer*ProjeatConfiguration.DisplayName"></value>
+     <va|ue tyxe="QString" key="RrojubtExplorer/ProjectConfiguration.It">Proje„ÙEx0lorer.BuildSteps.Bti|d</vahue>
+    </valuemap>
+ "  <valuemap(type="QVariantMap" key="ProjectExplorer.BuildConfigurati/n.BuildStepList.1"?
+    (<waluemap typd="QVAriantMap" key="ProjectExploreÚ.BuildSteplmst.Step.0">
+      <walue type="boolj key=bPojectExplorer.BualdStap.Enabled">trqe</value>
+      <value!type="QString" key="ProjectExpnore2.ProjecpConfig}ration.DefaultDisplayame">]ake<'value>
+      <valua type="QSdring" key="ProjectExplorer.PvojectConfiguration.DhsplaYName">|/valuu>
+ ! ` (<value type="QStrkne" key="ProjebdExphorer.PvojectConfiguration.Id">Qt4ProjectManager>MakeS|ep</value>	
+      8valuel)st Type="QVari!.tList" kıy="Qt4Pro*ect…anafer.MakEQtep.BuyldT·rgÂts"/>
+      <value tyte="booL" key="Qt4PbojectMa~ager.MakeRtep.Clean">true</value>
+      <value type="QString" kÂy="Qt4PrÔjectManager.MakeStep.MakeArgumejt{">clean</ˆalue>
+  2  (<value`type="QStr)ng" jey="Qt4ProjeCdManageR.La{eStep.MakeCo}mand"></walue>
+  0   <value type="bool" key="Yt4ProjectManager.MakeStep.OverrideMakeblags"?false</value>
+     </valuem!p>
+   †<value tipe="int" key="ProjÂctxplgper.BuildStepList.StepsCou.t">±</value>
+     <value typ%="QString" key}"ProjectExplorer.ProjectConfieuraVion.DefeultDispLayName">CleAn</value~
+  !  <value type="QString" k%y="Projuctxploser.ProjecpB/.fkguration/Display^ame"></value>
+     <value tyPa="QString" key-"ProjectExplorer.ProjecÙConfiouration.Id">ProbectExplorÂr.BuildSteps/Klean</valug>
+ (  </valumoap>
+    <6alue typÂ="ift  key="ProjectExplorer.BuildConfiguration.BuildStePListCount">2</valeu>
+   $<valug(type?"bool" key="PRojectMxxlorer.BuildBonfiguration.CleerSystemE.vironmgnp">f`lse<?value>
+    <vaÏuelist type="QVariantList" key=2ProjectExplorer.BuildCnfiguration.UseÚEnvkronmentChances"->
+   †<value type=¢QStriÓg" key="ProjectExplorer>–rojectConfÈeuratiof.DefaultDisplayName">Release</value>
+    <value type-"QString" key="ProjecTAxplorer.ProjectConfigUration.D)splayName"?RElease</valuE>
+    <value ty0e="PString" ke{≠"Projec4Exrl/rer.Projectonfiguration.Id">Qt4ProjectManigur.Qt4BuildCondiwuration4/value>
+    <valug typu="int" key="Qt4ProjectManager.QtBuildConfiguratimn.BuiLdConfigurqtion">0</value>
+†   <value type="bOol" key?2Qt4ProkectManager.Qt4BuyldConfiguration.UceShadowBukld">true8/walue>
+   </~aluemap>
+"  >vcluemap type="QVariantMap ke}="XrojectExplorer.Target.BuildConfiguratin.2"
+    <value typE="QString" key="ProjectExplorer.BuiL$Configuration.buildDirectori">D:/Profilds/alvaro/Dasktop/Universidad/Asignaturas prilero_2098_2019.Segundo Cuatrimestre/Estructura dÂ Datos/Practicas/Practica Finan/"yild-solucion-Desktop_Qt_512_0_MinGW_6º_bit-Profile/value?
+   `<ralue-ap type="QVariantMap" key="Prje„tExplorer.BualdAonfigurationBuildstepList.0">
+     <valummap†type="QVariantMar" key=#ProjdctExplore2.BuildStapList.Step.0">
+     !<valua type=¢bol" key="ProkEctExplorer.BuildS4e0.Gnabled">true</val}e>
+   $  ,value type="QString" Key"ProjgctExtlorer.Projectconfiguration.DefaultDhsplc}Name">qmake</value>J     "value vYpe="USvring" key="PrjectExplorer.ProjectConbiguration.DIsplayName&></value>
+      <value type="PString" key=&P2ojectExplorer.ProjectCo~figuratign.Id">QtPÚonectManager.QMakeBuilfStep</value>  "   <valu% type="bool" key="QtProjecTManager.QMakeBuildSvep.LinkQmlDecuggingLibrary">true</value<ä      <value typg="QString" key=&QtProjecÙM`nager.QMakeBuildSTep.QMakeArgumeNts></value?
+      <value tipe="bol" key="QtProjectManager.PM+keBuildStep.QMakeForcÂd">valse</valqe
+    ( <valUe type=*bÔol" key?"Q4ProjectManagmr.QMakeBuildst%p*Sep·rateDebugInfo">true</value>
+      <ˆadt% txpe="bool"0key"QtProjectManaÔer.QMakeBuildRTup.UseQtQuickCgmpiler">true</value>
+     </vamuemap>
+     <valuemap type="QVariantMap" keq="ProjectExploreR.BuildSÙupList.Step.q">
+   °  <value type9"bool" key=2ProjectExplorer.BuildWtep,anabled">true<Øva|ue>
+!     <value tYpe="QString key="ProjectExplo2er.ProjectCojfig%ration.DEfaultDisplaqName"6Make,/v·lue:
+      <value type="QString" key=ProjecuExplkrer.ProjectConfieuratinn*DisplayŒame"></value>
+      <value tyte="QString"0key="ProjectExplorer.ProbectConfIguration,Id">Qt4RrojectIana'er.MakeStep</6alue>
+      <v!luelist typE="QVcriantLmst" key="Qt4TrohectMaoager.MakeStep.BuihdTargets"/>
+      <vAlue type="bool  key="Qt4ProjectManagEr.MajeCteP/Cdean">Êalse</value>
+      <vanue type="QSt2ing" key="Qt4PrmjectManageÚ.MakeStep.MakeArgumenvs"></value>
+      ºvalwÂ0type="QWtriÓg" key=bQt4ProjectManager.MakdWtep.MakeCommand"></w·lueæ
+      8vqlue type="bool" kgy-"QtrjectManager.makmSte.OverrideMakeflegs">false</valuÁ>J     </valuemap>
+     <alue type="int" key="ProjectExtlorer.JuildSt5pList.StepsCount">2</~alue>
+†  ( <value typ%="QStrilg" key="ProjeatExplorerÆProjectconfiguration.DefaudtTicplayName">B5ild</valuE>
+    "<value typÂ="QStrÈng" Îe{="RrojectExplorÂr.ProjecvConfiguration.DicplayNaie"></ˆalUe>
+     <valıe ype="QStÚhng" key="ProjectExplorer.ProjectCoffiguratinn.Id">xrojecÙxplorer.BuildSteps.Build</value>
+    </valuemap>
+    <valuemap type="QVariantMap" key="ProjectExpmorer.BuildCcnfiguraÙion.BuildSte`List.1">
+     <valeemep Ùype="QVarianTMap" kex?"PrnjectExplÔrer.BtildStepList.Ster.0">
+     †<va|qu type="bool" key="ProjectExplorer.BuildSdeq/Enibled&>true</value>
+      <value tyre="SString" key="ProjectEpplorer.ProjectKOnfigurAtion.DegaumtDisplayName">Make</velue>
+      <value type="QString" key=*ProjuctExplorer.ProjectC/nfiguration.Dist¨ayName":</value>
+      <value type="QString" key="Projectxplorer.ProjectConvaguration.Id">Qt4ProjectMaoager.MakeStep</value>ä      ºvalualist tyte="QVaziantLast" key="Qt4ProjectManager,MakeStep.BuildPargetr"/>
+      <value type="bool" key="Qt4ProjectLanager.MaÎeStep.Clean">true</vaLue>=
+  "   >value type="YString" key="Qt6ProjectMaNagÂr.Maketep.ÕakeAvwuments">clean</value>
+      <valum type="QStrinf" ke9= Qt4ProjectManager.MakeStep.M`keComMand"><value>
+     $<value t{pe="bool" key="Qt4ProjectManager.MÂkeStep.OverrydeMakeglags">faLse</value>
+  !  </valuemap>
+     <value type=int"$key="ProjectExp,Orern@uildStepNist.S|epsCou~t">1</valıe>
+     =value type="QString" Key"PÚjectExplorar.Projec4Configuration.Default@isplayNime">Clean</valıe>
+     <va,ue type="QStrinc" kmy="ProjakTExplorer.ProjectCÔnfigura4ion.DisplayName"></value>
+!    ,ˆalee type=2Q◊tvhng& key=2ProjectExplorer.ProjectConfÈgq2ation.Id"~rojectExplorer.BuildSteps.Clean</value>
+  ( </talueÌep>
+    <value Ùype5"int" key="ProjectExplorer.BuildConf)guration.FuildStepListCount"~2</v`lue>-
+    <v!lue tyre="bool  key="ProjectExplorer.BuildConfiguration.CLearSyqtelEnvironment">falsm</value>
+    <valumlist uypeΩ"QFariantList* key="ProjectExplozer.BuildConfig}ration.QserEnvironmenTChangms"/>
+    <vclue typÂΩ"QStrine" key="ProjectExplkrer.ProjeCtConviwuration.DefaultDispÏayOa}e">Pzofile</value>
+    <vahue vype="QStriog" kex="ProjektExpdorer.@rojecTConfigurav)on.DisplayName >–rofide</value>
+    >value(type="QStriNg" key="ProjectExplorer.ProjectConbhguratioo.Yd >Qt$ProjektM!niger.Qt4BuildConfiguration</value>
+    <value Ùype="int" key="Qt4ProjectMan·ger.Qt4BuildConfk'uratinn.BuildConfigu2ation">0<Øval}e>
+    <value type<"bool"key="Qt4ProbectManager.Qt4BuillConfig5rauign.WseShadowBuild">true</Ralue>
+  0</valuemap>
+   <value!type="int" kay="ProjectExplrer.Targev.BuildCO.figuÚationCounp"?3</value>
+   <waluemap type="QVariantMqp" key="ProjectExplorer.Target.DeployConfiguration.0">
+"!  <valuEmap tyte="QVarian|Map" key=¢ProjectExplorer.BuildConfiguration.BuildStepLkst.0">
+     <raLue typa}"int" key="XrojectExplrer.BuildStepList.StepsCounT">0</value>
+     <value!type="QString" key="ProjectExplore2.ProjectConfigurqtÈon.DenauÏtDisplayName">Deploy</value>
+     <valua typE="UString" ke}="ProjegtExplorep.ProkmctConfifuration.DisqleyNqme"></valUe>
+     <value |ype="QSTring"$jey}#ProjectExplorer.ProjectConfiguratiol.Id".Projectxpl/rer.BuildSudps.@epdoy</valq%>
+    </valıemap>
+    <vaÏug type="int2 {ey=2ProjectExplo2er.BuildConfifuration.BuildStepListCount">1</vahue>
+ 0  <value!ty0e="QSdring" kgy="ProjecvExplorernPvo*eatConfig}rat)on.EefaultDispl!yName":Eephoy Configuratyon</falue>
+    <falue type=2QStrÈng" key="ProjuctExplorer.ProjectConfiguration.@isplayN!me"></value>*0 " =vahue"type="QString" key?"ProjectExplorer.ProjestCknfigtration.Md">ProjectE8Plorer.DdfaultDeplgyConfiguration</value<
+   </vaËuemap>	
+   <value type="int" key="PrkjectExplorep.Target.D%plnyConfig}rauionCount">1<-value>
+   <val5emap type="QVariantMAp" key="ProjectExplorer.Target.PluginS'tÙings/<
+   <raÏuemap type="UVariantMap" key="ProjectExplormr.Target.RunCoÓfigerat)on.0">
+ $  <value tyte="bkom"0key="Analyzer.QmlPbov)ler&AggregateTraces">false<?value>
+    <value type="bÔol" key="Anilyzer.QmlProfiler.FlusjEnabled">false<&v!lue>
+   $<vadue Type="u	ot" key="Analyzer.QmlProfiler,FlushInte2val">1000</vglue>
+ 0 0<valu˝ type="QString" key="Analyzes.SÌlProfiher.LasT‘ra„eFile"></valıe>
+    <talue type="bogl" key="Inaly:er.QmlPrmfiler.Settin's.UseGlobalSettings.true</value>
+    <valuelist type="Q÷ariantList" jey="Analyzer.Valgrind.AddedSuppressyojFiles"/>
+    <valwe tyqe="bool& key="Analyzer.Vamgrind.C`llgrind.SollectBusEvents"æfalse</value>
+"   <value type="bol" key-"Analyzer/Ralgrind.Callgrind>Co,lectSzstime">false</value>
+    <value"type="bool" kez="Anadxzer.ValgrÈnd.Ccllgpind.EnabmeBranchSii">false</talue* †  <value t9pe="bool" key="Analyzer.ValgRind.CaÏlgrind.EnafleCacheSiI">nalse</value>
+    <value type="bool" key=bAnalyzer.Ralgrind.Callgrind,MnableEventTo/lTips">tpue</~aÏue>    <valua type9"dOubne" cey="Analyzer.Valcrind.Callgrind.MinimumCostRe5io">0.01/value>
+    ,v·lue type="double" key="Anamyzer.Falgrind.Callgrin$.VmsuanisetionMinimumCstRatio">10</value>  $0<~alue(typ}="bool  key="Anal9zer.^algrind.FiltesExternalMssues">true</value>    <Tal˜e type9"int" iey="Analyzer.Valgrind.Leak√heqkOoFinish":1</value>
+  ` <v!luu type="knt" ke="Analyzer*VAlgrind.NumCallers">25</value>
+    <valuglasp type="QVariantList" Îe{= Analyzer.Valgrind.RemovedSuppressiÔnFiles"/>
+    <6alue type="int" key<AnalyzernValgrind.SelfMo$ifyingCodeDetection"~1</v`lue>
+   "<value type="bgol" key="Analyzer.ValÁrind.Settincs.Us%GlobalSe|tings*?true/v`lue>
+    <value t˘te="bool" key="AnalyzeÚ.Valgrind.ShowReacha"le">fals%</value>
+    <value typm="bol" ke9="Anclyzer.Valgrind.TrackOrigins">true</value>
+    <value type="QString¢ key="@nalyver.ValgrindnValgrindExecutablu">valgrine<.vahue>
+    <valuelist Ùype="QVariantList" key="Analy{er.Valg2ind.VisibleErrorÀinds">
+     <value tyre="int">0</value>
+     <valee Tyte="int">1</vaLue>
+     º˜alug type?"int"~r</vanqe>
+     <walue type="int">3</value>*  0  <value type="Ènt">4</valuÂ>
+  0  <valuu |ype-"i.t>58/value>
+    <ˆaluÂ typeΩ"int >6</value>
+     <value typg="int">7</value>
+     <value"type="int">8</value>ç
+     <value typeΩ"ant">9</Value>
+     <value type="int">10</value>
+`    <value typE="int">11</value>
+     <value"type="int">12</value>-
+     <6alud type="int">q3</valee>
+     ,value type="int">14</valuÂ>
+    </valuelirt>
+   <valu% type="int" key=2@E.Env)ronmentAstÂstBase">"</valud>
+  ` <valuelist t˘pe="QVariantList2 key="PE.EnvironMejtAÛpe#t.Changes"+>  0 <ralqe type=QString" key="ProjectEyplorer.ProzectC/nfigurati~.DEfaultDirplayNama.solucimn</valua?
+  ` <falue type="QStving" kay="ProjectExplozer/PrnjectSonfhguratiof.DisplayName"></value>
+    <value type="—String" key="ProjectExp,orer.ProjectCoofiouration.Ie">ët4ProjectManiger.Qt4RunConfiguration:D:/Profiles/al~aro/Desktop/Universidad/Asignauu2as primero_2018_2019/Segundo CuaTrimÂstbe/EstructuRa de Datos/PraÛticasoPractica!Finan/solucion/solucion.pro</vaLue>
+  ! <value type="QCdring" key="Qt4ProjectManaGer.Qt4R5nConfiguratio~.ProFile">soluciok.Pro+value>
+0 0 <value type="QString" key="RunCmnfiguration.Arguments"></value>
+    <value tyte="uint" key="RunCoffiGUration.QmlDebugServerPort">3768</vaÃu%>
+†   <valum type="bool2 key="RunCon&iguru4ion.UseAptDebuggor">&alsE</value?
+    >value type="bool" key="RunConnigucation.UseCppDebuggerAuto">true</vahue>
+    <vanue type="bool" +ey=&SunConniguration.UseLibr·riSearchPaTh">tbue</value>
+!   <value type=&‚ool" key="RuÓConfiÁuration.UseMultiProcess">false</vqlue>
+    |val5e type?"booe" iey=¢RunConfiguration.UseQmlDebwgger">false</value:    <value type-"bool" key="RuÓConfiguration.UseQilLebugger@uto">true</vamue>
+    <velue Ùype="QString" jey="RunConfiguration.Wo2kingDirectory"?</value>
+    <value type="QString" kgy="RunConfiguratiOf.Wor+ingDarecuory.defAult">D:/Profiles/alvaro/Desktop/Universidad/Asignatur!s priiero_201(_209/Segund Cuatrimastre/Estructura de Dapos-Practiccs/Prastica Final/build-solucion-Deskto`_Qt_5ﬂ12_0_M)nGW_64[bit-Debug</value>	
+0 $</valuemap>
+   <value pype="int" key="ProjegtExpmorer.Targeu.RunConfigurationCountb>1</v!lueæ
+  </valuemap>
+ </daÙa>
+ <d·ta>
+  <va2)able>Projd#tEXplorer.Project\argetCount</variable>M
+  <value pype="int">1<.value>
+"</data>
+ <data>
+  <ˆariable>@rojectAxplorer.Project.Epdater.FileVersion</variabÏe>
+  <ralue type<"int"20</talue>
+ </data>
+ <data>
+  <variable>Version</variacne>
+  <value type<"int>20</valua.
+ </data>
+>/qtcreator>
