@@ -1,8 +1,5 @@
 /**
 * Modulo: ArbolBinarioAux
-* Tipo: Programa() Interfaz TAD () Implementacion TAD () Otros(X)
-* Autor: José Miguel Buenaposada (josemiguel.buenaposada@urjc.es)
-* Fecha: 2016
 * Descripción: Implementación de subprogramas auxiliares de manejo
 *              de Árboles Binarios.
 */
