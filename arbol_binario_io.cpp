@@ -1,8 +1,5 @@
 /**
 * Modulo: ArbolBinarioIO
-* Tipo: Programa() Interfaz TAD () Implementacion TAD () Otros(X)
-* Autor: José Miguel Buenaposada (josemiguel.buenaposada@urjc.es)
-* Fecha: 2016
 * Descripción: Implementación de las operaciones de entrada/salida
 *              de Árboles Binarios.
 */
