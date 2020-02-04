@@ -1,8 +1,5 @@
 /**
  * Modulo: prueba.cpp
- * Tipo: Programa(x) Interfaz-Implementacion TAD ()       Otros()
- * Autor: José Miguel Buenaposada (josemiguel.buenaposada@urjc.es)
- * Fecha: 2019
  * Descripción: programa de prueba de las operaciones sobre Árboles Binarios.
  * Lee la operación a probar de la entrada estándar y escribe el resultado
  * en la salida estándar.
