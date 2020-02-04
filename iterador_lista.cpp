@@ -1,8 +1,5 @@
 /**
 * Modulo: IteradorLista
-* Tipo: Programa() Interfaz-Implementacion TAD (X)       Otros()
-* Autor: José Miguel Buenaposada (josemiguel.buenaposada@urjc.es)
-* Fecha: 2015
 * Descripción: Implementación de los iteradores para el TAD Lista
 */
 
