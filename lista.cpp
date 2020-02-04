@@ -1,8 +1,5 @@
 /**
 * Modulo: Lista
-* Tipo: Programa() Interfaz TAD () Implementacion TAD (X) Otros()
-* Autor: José Miguel Buenaposada (josemiguel.buenaposada@urjc.es)
-* Fecha: 2015
 * Descripción: Implementación de un TAD para representar
 *              y manipular Listas de elementos implementada con
 *              nodos de doble enlace (parametrizado en
